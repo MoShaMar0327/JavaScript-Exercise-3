@@ -14,6 +14,6 @@ colors.pop()
 colors.unshift("Red")
 
 // TODO: Print the length of both arrays 
-console.log("Colors:", colors);
-console.log("Colors length:", colors.length);
-console.log("Numbers length:", numbers.length);
+console.log("Colors:", colors)
+console.log("Colors length:", colors.length)
+console.log("Numbers length:", numbers.length)
